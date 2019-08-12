@@ -1,15 +1,15 @@
 class ResistorColor {
   List<String> colors = [
     "black",
-    "Brown",
-    "Red",
-    "Orange",
-    "Yellow",
-    "Green",
-    "Blue",
-    "Violet",
-    "Grey",
-    "White",
+    "brown",
+    "red",
+    "orange",
+    "yellow",
+    "green",
+    "blue",
+    "violet",
+    "grey",
+    "white",
   ];
   
   int colorCode(String color) {
